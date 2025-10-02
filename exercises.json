@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ex1",
+    "title": "Past Simple - Fill the blank",
+    "type": "fill_blank",
+    "content": "Yesterday I ____ (go) to the market.",
+    "answers": [
+      "went"
+    ]
+  },
+  {
+    "id": "ex2",
+    "title": "Third person singular",
+    "type": "mcq",
+    "question": "She ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ex3",
+    "title": "Short answer - Describe",
+    "type": "short",
+    "question": "Describe your last holiday in one sentence."
+  }
+]
