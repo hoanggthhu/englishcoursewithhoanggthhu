@@ -1,7 +1,0 @@
-
-[
-  { "id": 1, "level": "basic", "title": "Danh từ & Đại từ", "content": "Nouns & Pronouns explanation..." },
-  { "id": 2, "level": "basic", "title": "Thì hiện tại đơn", "content": "Present Simple explanation..." },
-  { "id": 3, "level": "intermediate", "title": "Câu điều kiện", "content": "Conditionals explanation..." },
-  { "id": 4, "level": "advanced", "title": "Mệnh đề quan hệ", "content": "Relative Clauses explanation..." }
-]
